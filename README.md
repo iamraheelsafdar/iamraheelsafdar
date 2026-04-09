@@ -117,31 +117,6 @@ const raheel = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamraheelsafdar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=iamraheelsafdar&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamraheelsafdar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamraheelsafdar&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="98%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamraheelsafdar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
 ## 💡 What I Build
 
 <div align="center">
