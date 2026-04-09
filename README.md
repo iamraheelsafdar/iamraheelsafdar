@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:3B82F6,100:8B5CF6&height=200&section=header&text=Raheel%20Safdar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20React%20%7C%20Node.js%20%7C%20Python&descAlignY=60&descSize=16&descColor=e0f2fe" />
 
