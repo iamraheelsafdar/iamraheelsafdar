@@ -1,18 +1,192 @@
-# 💫 About Me:
-My name is Raheel Safdar, and I am a motivated Full Stack Software Engineer with experience creating powerful and scalable web applications. My specialization lies in designing and implementing backend and frontend architectures using Laravel, PHP, Python, Vue.js with Vuex, Node.js, Nest.js, Next.Js and React.js. I have a passion for coding complicated logic into simple and elegant solutions.<br><br>Through my career, I have been involved in the design and development of full-stack web applications using state-of-the-art techniques in PHP, JavaScript, HTML, CSS, and MySQL, as well as the popular frameworks Laravel, WordPress, Next.js and other libraries for JavaScript. I have worked with both API development and user interface components, bringing many projects from ideation to release.<br><br>Being aware of the constant changes in technology, I am always eager to learn about emerging innovations that can improve the quality of software products. In addition, I am knowledgeable in version control systems (Git) and collaboration within software engineering teams.<br><br>Core Skills:<br>✔️ Full Stack Web Development<br>✔️ Backend APIs & Microservices<br>✔️ Laravel, PHP, Node.js<br>✔️ Vue.js, Vuex, React.js<br>✔️ JavaScript, HTML, CSS, Bootstrap<br>✔️ MySQL, MongoDB<br>✔️ WordPress & Custom Solutions<br>✔️ Clean Code & Best Practices<br><br>I am interested in working on open-source software that can make a difference in our lives. 
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:3B82F6,100:8B5CF6&height=200&section=header&text=Raheel%20Safdar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20React%20%7C%20Node.js%20%7C%20Python&descAlignY=60&descSize=16&descColor=e0f2fe" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamraheelsafdar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamraheelsafdar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raheel-safdar-56aa14236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raheel.safdar795@gmail.com) 
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Laravel+%7C+Vue.js+%7C+React+%7C+Node.js+%7C+Python+Expert;Building+Scalable+Web+Applications;Clean+Code+%7C+Best+Practices+%7C+Open+Source;Always+Learning+%7C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamraheelsafdar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamraheelsafdar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamraheelsafdar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iamraheelsafdar&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/iamraheelsafdar?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=1e1e2e" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work" />
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamraheelsafdar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```typescript
+const raheel = {
+  name:        "Raheel Safdar",
+  role:        "Full Stack Software Engineer",
+  location:    "Pakistan 🇵🇰",
+  email:       "raheel.safdar795@gmail.com",
+
+  expertise:   ["Laravel", "Vue.js", "React.js", "Node.js", "NestJS", "Next.js", "Python"],
+  databases:   ["MySQL", "MongoDB", "PostgreSQL", "Redis", "DynamoDB"],
+  cloud:       ["AWS", "Cloudflare", "Vercel"],
+  tools:       ["Git", "Docker", "Nginx", "Apache Kafka", "Socket.io"],
+
+  currentFocus: "Building scalable microservices & real-time web applications",
+  passion:      "Turning complex logic into elegant, maintainable solutions",
+  openSource:   true,
+  hireable:     true,
+};
+```
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+- 🔭 &nbsp; Currently building **scalable full-stack applications** using Laravel & Vue.js
+- 🌱 &nbsp; Exploring **microservices architecture**, **Apache Kafka**, and **AI integrations**
+- 💼 &nbsp; Experienced in **API development**, **backend architecture**, and **SPA frontend**
+- 🤝 &nbsp; Open to **collaborations** on impactful open-source projects
+- ⚡ &nbsp; Fun fact: I debug code faster with coffee ☕ and lo-fi music 🎵
+- 📫 &nbsp; Reach me at **raheel.safdar795@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raheel%20Safdar-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raheel-safdar-56aa14236)
+[![Facebook](https://img.shields.io/badge/Facebook-iamraheelsafdar-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/iamraheelsafdar)
+[![Instagram](https://img.shields.io/badge/Instagram-iamraheelsafdar-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iamraheelsafdar)
+[![Gmail](https://img.shields.io/badge/Gmail-raheel.safdar795-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raheel.safdar795@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### 🔤 Languages
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### 🗄️ Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+### ☁️ Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-%23161616?style=for-the-badge&logo=circleci&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-%23362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamraheelsafdar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=iamraheelsafdar&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamraheelsafdar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamraheelsafdar&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="98%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamraheelsafdar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 💡 What I Build
+
+<div align="center">
+
+| 🧩 Domain | 🔧 What I Do |
+|---|---|
+| **Backend APIs** | RESTful APIs, GraphQL, Microservices with Laravel & NestJS |
+| **Frontend SPAs** | Dynamic UIs with Vue.js / React.js / Next.js |
+| **Real-Time Apps** | Live features using WebSockets & Socket.io |
+| **Database Design** | Relational & NoSQL schema design, query optimization |
+| **Cloud & DevOps** | AWS deployments, CI/CD pipelines, Nginx configuration |
+| **WordPress** | Custom themes, plugins, and headless WordPress solutions |
+| **Event Streaming** | Kafka-based messaging for distributed systems |
+
+</div>
+
+---
+
+## 🎯 Core Strengths
+
+```
+✅ Full Stack Web Development        ✅ Backend APIs & Microservices
+✅ Laravel, PHP, Node.js             ✅ Vue.js, Vuex, React.js, Redux
+✅ JavaScript (ES6+), HTML5, CSS3    ✅ MySQL, MongoDB, PostgreSQL, Redis
+✅ Real-Time Systems (Socket.io)     ✅ Clean Code & SOLID Principles
+✅ CI/CD & DevOps Practices         ✅ WordPress & Custom CMS Solutions
+✅ REST & GraphQL APIs              ✅ Team Collaboration & Git Workflow
+```
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:6EE7F7&height=120&section=footer&animation=fadeIn" />
+
+**"Code is not just instructions for machines — it's a craft, a story, and a solution."**
+
+⭐ *If you find my work useful, consider giving a star to my repositories!* ⭐
+
+</div>
