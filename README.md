@@ -55,14 +55,7 @@ I don't chase trends. If Laravel solves the problem, I use Laravel. If the proje
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamraheelsafdar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&icon_color=BB86FC&text_color=c9d1d9&hide=contribs&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamraheelsafdar&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamraheelsafdar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=c9d1d9&langs_count=8" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamraheelsafdar&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" height="180" />
 </div>
 
 <br/>
