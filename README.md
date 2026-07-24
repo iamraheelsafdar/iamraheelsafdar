@@ -11,13 +11,26 @@
 
 </div>
 
-<br/>
+---
 
-I build things for the web. Mostly backend systems with Laravel and Node.js, frontend with Vue and React, and the infrastructure to keep it all running. I care about writing code that other people can read six months later.
+```typescript
+const raheel = {
+  role:        "Full Stack Software Engineer",
+  location:    "Pakistan",
+  company:     "Softvion Technology",
+  expertise:   ["Laravel", "Vue.js", "React", "Next.js", "Node.js", "NestJS", "Python"],
+  databases:   ["MySQL", "MongoDB", "PostgreSQL", "Redis", "DynamoDB"],
+  cloud:       ["AWS", "Cloudflare", "Vercel", "VPS"],
+  tools:       ["Git", "Docker", "Nginx", "GitHub Actions", "Apache Kafka", "Socket.io"],
+  focus:       "Scalable backend systems & real-time web applications",
+};
+```
+
+I build things for the web. Mostly backend systems with Laravel and Node.js, frontend with Vue and React, and the infrastructure to keep it all running. I care about writing code that other people can actually read six months later.
 
 Currently running [Softvion Technology](https://softviontech.com) where we build software products and handle technical consulting for startups.
 
-<br/>
+---
 
 ### What I work with
 
@@ -31,7 +44,21 @@ Currently running [Softvion Technology](https://softviontech.com) where we build
 
 **Other** &mdash; Stripe payments, Apache Kafka, Socket.io, WordPress
 
-<br/>
+---
+
+### What I build
+
+| Domain | What I do |
+|---|---|
+| **Backend APIs** | RESTful APIs, GraphQL, Microservices with Laravel & NestJS |
+| **Frontend SPAs** | Dynamic UIs with Vue.js, React, Next.js |
+| **Real-Time Apps** | Live features using WebSockets & Socket.io |
+| **Database Design** | Relational & NoSQL schema design, query optimization |
+| **Cloud & DevOps** | AWS deployments, CI/CD pipelines, Nginx, zero-downtime deploys |
+| **Event Streaming** | Kafka-based messaging for distributed systems |
+| **WordPress** | Custom themes, plugins, and headless WordPress solutions |
+
+---
 
 ### Recent work
 
@@ -40,7 +67,7 @@ Currently running [Softvion Technology](https://softviontech.com) where we build
 - Set up multi-tenant SaaS platforms with role-based access, queue workers, and background job orchestration
 - Migrated monolith applications to service-oriented architectures with proper API contracts and DTOs
 
-<br/>
+---
 
 ### How I think about code
 
@@ -48,7 +75,20 @@ I follow a Service-Contract-DTO pattern on the backend. Thin controllers, fat se
 
 I don't chase trends. If Laravel solves the problem, I use Laravel. If the project needs Node, I use Node. The right tool depends on what you're building, not what's trending on Twitter.
 
-<br/>
+---
+
+### Core strengths
+
+```
+Full Stack Web Development          Backend APIs & Microservices
+Laravel, PHP, Node.js               Vue.js, React.js, Next.js
+JavaScript (ES6+), TypeScript       MySQL, MongoDB, PostgreSQL, Redis
+Real-Time Systems (Socket.io)       Clean Code & SOLID Principles
+CI/CD & Zero-Downtime Deploys       REST & GraphQL APIs
+Docker, Nginx, AWS                  Team Collaboration & Git Workflow
+```
+
+---
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iamraheelsafdar&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" height="180" />
