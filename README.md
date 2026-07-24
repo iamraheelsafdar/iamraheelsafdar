@@ -1,9 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=&fontSize=0" />
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Raheel+Safdar;Software+Engineer;Pakistan" alt="Typing SVG" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:7D01FF,100:BB86FC&height=200&section=header&text=Raheel%20Safdar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Pakistan&descSize=16&descColor=BB86FC&descAlignY=65" width="100%" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raheel-safdar-56aa14236)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raheel.safdar795@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamraheelsafdar)
+[![Softvion](https://img.shields.io/badge/-Softvion%20Tech-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=BB86FC)](https://softviontech.com)
+
 </div>
 
 <br/>
@@ -45,19 +50,10 @@ I don't chase trends. If Laravel solves the problem, I use Laravel. If the proje
 
 <br/>
 
-### Get in touch
-
-<a href="https://linkedin.com/in/raheel-safdar-56aa14236"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:raheel.safdar795@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://instagram.com/iamraheelsafdar"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>&nbsp;
-<a href="https://softviontech.com"><img src="https://img.shields.io/badge/-Softvion-1a1a2e?style=flat&logo=google-chrome&logoColor=white" /></a>
-
-<br/><br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iamraheelsafdar&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" height="180" />
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,50:7D01FF,100:1a1a2e&height=100&section=footer" />
